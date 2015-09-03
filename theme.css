@@ -1,0 +1,37 @@
+body h1,p {
+	color:#465594;
+}
+
+#title{
+	font-size: 14px;
+	
+}
+
+#bold{
+	font-weight: bold;
+	font-size: 14px;
+	
+
+}
+
+#size14{
+	font-size: 14px;
+	
+
+}
+
+#size11{
+	font-size: 11px;
+
+}
+
+#bold11{
+	font-weight: bolder;
+	font-size: 11px;
+
+}
+
+.col-md-4 h1 {
+   font-weight: normal;
+   
+}
