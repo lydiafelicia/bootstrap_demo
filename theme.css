@@ -1,3 +1,7 @@
+body{
+	margin: 0 auto;
+}
+
 body h1,p {
 	color:#465594;
 }
@@ -34,4 +38,33 @@ body h1,p {
 .col-md-4 h1 {
    font-weight: normal;
    
+}
+
+.btn{
+	border-radius: 4px;
+}
+
+img{
+	width: 100%;
+	height:100%;
+}
+
+.btn_custom {
+	border-radius: 4px;
+	padding: 6px 12px;
+	font-size: 14px;
+	text-align: center;
+	border: 1px solid transparent;
+}
+
+.btn_custom:hover {
+	border-radius: 4px;
+	padding: 6px 12px;
+	font-size: 14px;
+	text-align: center;
+	border: 1px solid transparent;
+	background-color: #d9534f;
+}
+.carousel-inner{
+	height: 645px;
 }
